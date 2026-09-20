@@ -1,0 +1,7 @@
+{
+  "name": "证件照在线生成",
+  "description": "纯前端本地证件照智能制作工具，支持一键人像智能抠图换底色、自然美颜磨皮美白、多种标准规格裁剪与6寸排版打印下载。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
